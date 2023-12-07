@@ -1,5 +1,5 @@
 {
-  "name": "Sanmer Magisk Repo (demo)",
+  "name": "chouge1huao modules",
   "metadata": {
     "version": 1,
     "timestamp": 1701810667.417669
@@ -38,8 +38,8 @@
         },
         {
           "timestamp": 1698700191.0,
-          "version": "1.0.41",
-          "versionCode": 104114,
+          "version": "13.5.1",
+          "versionCode": 1351,
           "zipUrl": "https://mrepoapp.github.io/demo-modules-repo/modules/adb-ndk/1.0.41_104114.zip",
           "changelog": "https://chouge1huao.github.io/MRepo/modules/zygisk-sui/13.5.1.md"
         }
