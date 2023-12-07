@@ -6,12 +6,12 @@
   },
   "modules": [
     {
-      "id": "adb-ndk",
-      "name": "ADB & Fastboot for Android NDK",
-      "version": "1.0.41",
-      "versionCode": 104114,
+      "id": "zygisk-sui",
+      "name": "Zygisk-Sui",
+      "version": "13.5.1",
+      "versionCode": 1351,
       "author": "osm0sis & Surge1223 @ xda-developers",
-      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+      "description": "ShizukuAPI制作的Magisk模块超级用户的另一种实现",
       "track": {
         "type": "ONLINE_JSON",
         "added": 1679025505.129431,
