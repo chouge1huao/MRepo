@@ -1,6 +1,6 @@
 {
   "name": "chouge1huao modules",
-  "base_url": "https://chouge1huao/MRepo/",
+  "base_url": "https://chouge1huao.github.io/MRepo/",
   "max_num": 3,
   "enable_log": true,
   "log_dir": "log"
